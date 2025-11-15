@@ -1,5 +1,17 @@
 # IF4021 - Latihan Pemrosesan Multimedia: Pemrosesan Audio
 
-Repositori ini berisi hasil tugas pemrosesan audio. Latihan ini mencakup berbagai teknik dalam pemrosesan audio seperti manipulasi sinyal audio, filtering, pitch shifting, normalisasi, dan remixing.
+# Hands-On Pemrosesan Audio
 
-## Struktur Repository
+Selamat datang di repositori **Hands-On Pemrosesan Audio**!
+
+Repositori ini berisi berbagai contoh kode, modul, dan materi praktik terkait pemrosesan audio. Tujuan utama dari repositori ini adalah untuk membantu pembelajar memahami konsep dasar hingga lanjutan terkait audio processing secara praktis.
+
+## Bahasa Pemrograman
+
+Repositori ini dapat mencakup berbagai bahasa pemrograman, namun Python umumnya digunakan karena ekosistem pustaka pemrosesan audio yang luas.
+
+Instalasi pustaka utama:
+
+```bash
+pip install numpy scipy matplotlib librosa pydub
+```
